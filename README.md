@@ -14,8 +14,8 @@ $ bundle install
 <pre><code>$ ruby my-app.rb
 </code></pre>
 <h2 id="radio-what-does-it-do-">📻 What does it do ?</h2>
-<p>Some thigs, maybe an image will explain it better :<br>
-<img src="https://i.imgur.com/QS7vIk3.jpg" alt="Stolen (Kindly stolen) from reddit"></p>
-<h2 id="octocat-who-made-this-">:octocat: Who made this ?</h2>
+<p>Some things, maybe an image will explain it better :</p>
+<p><img src="https://i.imgur.com/QS7vIk3.jpg" alt="Stolen (Kindly stolen) from reddit"></p>
+<h2 id="octopus-who-made-this-">🐙 Who made this ?</h2>
 <p>Usually it’s @Crysicia and @ssimonlp, but it can be many more people !</p>
 
